@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "AlertHelp"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "对 iOS 系统 UIAlertController 的封装"
 
   # This description is used to generate tags and improve search results.
@@ -90,7 +90,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  
+
   spec.source_files  = ['AlertHelpDemo/AlertHelp/AlertHelp.{h,m}']
   # spec.exclude_files = "Classes/Exclude"
 
