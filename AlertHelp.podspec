@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "AlertHelp"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.3"
   spec.summary      = "对 iOS 系统 UIAlertController 的封装"
 
   # This description is used to generate tags and improve search results.
